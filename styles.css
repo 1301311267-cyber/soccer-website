@@ -1,0 +1,13 @@
+
+.player-card {
+    background-color: #f0f0f0;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.player-card:hover {
+    background-color: #d8ceb7e3;
+    transform: scale(1.02);
+}
+
