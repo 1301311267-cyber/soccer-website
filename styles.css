@@ -10,4 +10,15 @@
     background-color: #d8ceb7e3;
     transform: scale(1.02);
 }
+.early-life-facts {
+    margin: 20px;
+}
+
+.early-life-facts ul {
+    line-height: 1.6;
+}
+
+.early-life-facts li {
+    margin-bottom: 10px;
+}
 
